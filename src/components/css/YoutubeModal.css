@@ -1,0 +1,21 @@
+.youtube-modal{
+    width: 600px;
+    height: 400px;
+    background-color: #000;
+}
+
+@media(max-width: 1024px){
+
+    .youtube-modal{
+        width: 90%;
+        padding-top: 56.25%;
+        height: auto;
+    }
+
+    .youtube-modal .youtube-player{
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+}
