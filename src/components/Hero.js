@@ -47,7 +47,7 @@ export const Hero = ({ setResumeModal }) => {
         <h3 className="hero-heading">
           Hello, I'm <span className="name">Fereja Wale</span>
         </h3>
-        <h3 className="hero-heading">I am Front-end Web Developer</h3>
+        <h3 className="hero-heading">I am Full-Stack Web Developer</h3>
         <a href={Resume} download>
           <button className="view-resume-btn">Get My Resume</button>
         </a>
